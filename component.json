@@ -1,0 +1,14 @@
+{
+  "name": "latlng",
+  "repo": "danzajdband/latlng",
+  "description": "Geographical point data structure extracted from LeafletJS",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
